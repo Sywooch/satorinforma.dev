@@ -1,0 +1,48 @@
+Message-ID: <60237af46fda400bc8dac8fa269cec54@satorinforma.dev>
+Date: Wed, 15 Mar 2017 10:54:53 +0000
+Subject: Password reset for Sator Informa
+From: admin@example.org
+To: samuele.renati@sigmainformatica.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_v4_1489575293_fac84630ca71511b83fa3d89af972057_=_"
+
+
+--_=_swift_v4_1489575293_fac84630ca71511b83fa3d89af972057_=_
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Hello samuelexyz,
+
+Follow the link below to reset your password:
+
+h=
+ttp://satorinforma.dev:8080/site/password-reset?token=3DXqBkGONsGoCfqO5XFtn=
+qsYdErZyBhT2X_1489575293
+
+--_=_swift_v4_1489575293_fac84630ca71511b83fa3d89af972057_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8=
+" />
+    <title></title>
+    </head>
+<body>
+       =20
+Hello samuelexyz,
+
+Follow the link below to reset your password:
+
+<a href=3D"http://satorinforma.dev:8080/site/password-reset?token=3DXqBkGON=
+sGoCfqO5XFtnqsYdErZyBhT2X_1489575293">http://satorinforma.dev:8080/site/pas=
+sword-reset?token=3DXqBkGONsGoCfqO5XFtnqsYdErZyBhT2X_1489575293</a>    </bo=
+dy>
+</html>
+
+
+--_=_swift_v4_1489575293_fac84630ca71511b83fa3d89af972057_=_--
